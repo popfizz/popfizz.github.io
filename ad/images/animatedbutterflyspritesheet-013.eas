@@ -1,0 +1,95 @@
+
+{
+
+	"frames":[
+		{
+
+			"filename":"image1001",
+			"sourceSize":{
+				"w":449,
+				"h":583},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":449,
+				"h":583},
+			"frame":{
+				"y":0,
+				"x":5,
+				"w":449,
+				"h":583},
+			"trimmed":false},
+		{
+
+			"filename":"image1002",
+			"sourceSize":{
+				"w":449,
+				"h":583},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":449,
+				"h":583},
+			"frame":{
+				"y":0,
+				"x":459,
+				"w":449,
+				"h":583},
+			"trimmed":false},
+		{
+
+			"filename":"image1003",
+			"sourceSize":{
+				"w":449,
+				"h":583},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":449,
+				"h":583},
+			"frame":{
+				"y":0,
+				"x":913,
+				"w":449,
+				"h":583},
+			"trimmed":false},
+		{
+
+			"filename":"image1004",
+			"sourceSize":{
+				"w":449,
+				"h":583},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":449,
+				"h":583},
+			"frame":{
+				"y":0,
+				"x":1367,
+				"w":449,
+				"h":583},
+			"trimmed":false},
+		{
+
+			"filename":"image1005",
+			"sourceSize":{
+				"w":449,
+				"h":583},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":449,
+				"h":583},
+			"frame":{
+				"y":0,
+				"x":1821,
+				"w":449,
+				"h":583},
+			"trimmed":false}],
+	"meta":{
+		"scale":1,
+		"image":"animatedbutterflyspritesheet-01.png",
+		"size":{
+			"w":2271,
+			"h":583}}}
